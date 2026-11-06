@@ -100,4 +100,4 @@ MIT License (see the LICENSE file).
 
 ## Citation
 
-If you use this code, please cite the article (citation to be added after publication) and the archived version of this repository on Zenodo: [DOI to be added].
+If you use this code, please cite the article (citation to be added after publication) and the archived version of this repository on Zenodo: (https://doi.org/10.5281/zenodo.24011670).
