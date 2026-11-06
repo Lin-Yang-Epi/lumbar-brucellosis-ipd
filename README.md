@@ -4,8 +4,6 @@ Analysis code for the manuscript:
 
 > Factors associated with diagnostic delay in lumbar brucellar spondylitis: an individual patient data meta-analysis of published cases. 
 
-Authors: Lin Yang, Yu Fu, Yang Yang, Mohamad Zaki bin Haji Mohd Amin, Jeffery anak Stephen, Yang Liu
-
 Contact: Lin Yang (ORCID 0009-0006-5574-8106)
 
 ## Overview
